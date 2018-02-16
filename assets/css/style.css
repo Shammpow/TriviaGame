@@ -1,0 +1,23 @@
+body {
+    background: url("../images/pub-quiz-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.jumbotron {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+#question {
+    font-size: 30px;
+    color: black;
+}
+
+#answersHere {
+    font-size: 20px;
+    color: black;
+}
+
